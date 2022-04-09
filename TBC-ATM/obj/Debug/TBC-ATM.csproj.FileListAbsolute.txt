@@ -1,0 +1,8 @@
+D:\Full-Stack\Visual studio 2022\Projects\TBC-ATM\TBC-ATM\obj\Debug\TBC-ATM.csproj.AssemblyReference.cache
+D:\Full-Stack\Visual studio 2022\Projects\TBC-ATM\TBC-ATM\obj\Debug\TBC-ATM.csproj.SuggestedBindingRedirects.cache
+D:\Full-Stack\Visual studio 2022\Projects\TBC-ATM\TBC-ATM\obj\Debug\TBC-ATM.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\TBC-ATM\TBC-ATM\bin\Debug\TBC-ATM.exe.config
+D:\Full-Stack\Visual studio 2022\Projects\TBC-ATM\TBC-ATM\bin\Debug\TBC-ATM.exe
+D:\Full-Stack\Visual studio 2022\Projects\TBC-ATM\TBC-ATM\bin\Debug\TBC-ATM.pdb
+D:\Full-Stack\Visual studio 2022\Projects\TBC-ATM\TBC-ATM\obj\Debug\TBC-ATM.exe
+D:\Full-Stack\Visual studio 2022\Projects\TBC-ATM\TBC-ATM\obj\Debug\TBC-ATM.pdb
