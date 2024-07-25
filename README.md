@@ -6,14 +6,23 @@ The TBC Bank ATM System is designed to offer seamless banking services to custom
 
 # Features
 User Authentication: Secure login using card and PIN.
+
 Cash Withdrawal: Easy and quick cash withdrawal with various denomination options.
+
 Cash Deposit: Secure and efficient cash deposit functionality.
+
 Balance Inquiry: Check account balance with a single touch.
+
 Fund Transfers: Transfer funds between accounts.
+
 Mini Statements: Print mini statements of recent transactions.
+
 Pin Change: Option to change the ATM PIN for enhanced security.
+
 Multilingual Support: Interface available in multiple languages for user convenience.
+
 Receipt Printing: Print transaction receipts for records.
+
 User-Friendly Interface: Simple and intuitive interface for all users.
 
 # Technology Stack
